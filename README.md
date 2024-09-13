@@ -1,22 +1,23 @@
 
-# Algoritma&Flowchart
+# Algorithm & Flowchart
 
-Tugas individu membuat Algoritma&Flowchart
+Individual task: Create an Algorithm & Flowchart
 
-## Apa itu Algoritma&Flowchart
+## What are Algorithms & Flowcharts?
 
-Algoritma adalah urutan langkah-langkah logis yang disusun secara sistematis untuk menyelesaikan masalah atau mencapai tujuan tertentu. Dalam pemrograman, algoritma digunakan untuk mendefinisikan bagaimana suatu tugas atau masalah dapat diselesaikan oleh komputer, dengan instruksi yang spesifik dan terperinci.
+An algorithm is a sequence of logical steps arranged systematically to solve a problem or achieve a specific goal. In programming, algorithms define how a task or problem can be solved by a computer with specific and detailed instructions.
 
-Flowchart adalah diagram visual yang menggambarkan urutan langkah-langkah dalam suatu proses atau algoritma. Flowchart menggunakan simbol-simbol standar untuk mempresentasikan proses secara grafis, sehingga lebih mudah dipahami.
+A flowchart is a visual diagram that shows the sequence of steps in a process or algorithm. Flowcharts use standard symbols to represent processes graphically, making them easier to understand.
 
-## Deskripsi Tugas
+## Task Description
 
-Membuat Algoritma dan Flowchart dari soal dibawah ini:
-1.  Deteksi Palindrom
-    Diberikan sebuah teks, periksa apakah kata kata tersebut adalah palindrom atau tidak. Misalnya teks "Malam", Output= palindrom
+Create an Algorithm and Flowchart for the following problems:
 
-2.  Reverse Words
-    Diberikan sebuah kalimat, ubah urutan kata-kata di dalam kalimat menjadi terbalik. Misnya kalimat "Saya belajar javascript", Output "Javascript belajar saya"
+1.     Palindrome Detection
+Given a text, check if it is a palindrome or not. For example, the word "Malam", Output = palindrome.
 
-Tugas tersebut dapat dikerjakan menggunakan [draw.io](https://app.diagrams.net/)
+2.     Reverse Words
+Given a sentence, reverse the order of words in the sentence. For example, the sentence "I am learning JavaScript", Output = "JavaScript learning am I".
+
+This task can be done using [draw.io](https://app.diagrams.net/)
 
